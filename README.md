@@ -24,6 +24,9 @@ rm -rf .git && git init && npm init
 # Install dependencies using Yarn
 yarn
 
+# To run
+yarn start or npm start
+
 # Start development server & swagger
 yarn start-gendoc
 
