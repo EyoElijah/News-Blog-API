@@ -6,10 +6,10 @@ For development, you will need Node.js, MongoDb, Yarn or NPM installed in your d
 
 ## Technologies
 
--- nodejs
--- express
--- mongodb
--- swagger
+- nodejs
+- express
+- mongodb
+- swagger
 
 ## Getting Started
 
